@@ -1,0 +1,1 @@
+gcc -o rcfour main.c bib.c
